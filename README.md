@@ -40,6 +40,8 @@ This project focused on using **Nmap** to detect open ports on the target websit
 
 ---
 
+![image alt](https://github.com/Cyber-ann/Port-Scanning/blob/main/nmap%20%20screenshot.JPG?raw=true)
+
 **Interpret Findings**
 - Port 80/tcp is open and running an HTTP service.
 - All other ports are closed.
